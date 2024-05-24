@@ -2,5 +2,8 @@
 Simple Holograms Plugin (Java &amp; Spigot Api) 
 
 # Commands
-*/Holograms create (Hologram_Text)*/n
+*/Holograms create (Hologram_Text)*
+
 */Holograms remove (Hologram_Text)*
+
+You can use (/Holo, /H) instead of /Holograms
