@@ -7,3 +7,5 @@ Simple Holograms Plugin (Java &amp; Spigot Api)
 */Holograms remove (Hologram_Text)*
 
 You can use (/Holo, /H) instead of /Holograms
+
+_Contact me on discord for any simple ideas_
