@@ -1,0 +1,11 @@
+name: Holograms
+version: '${project.version}'
+main: org.seekie.holograms.Holograms
+commands:
+  holograms:
+    description: Create an Hologram
+    permission: holograms.use
+    permission-message: You don't have enough permission
+    aliases:
+      - holo
+      - h

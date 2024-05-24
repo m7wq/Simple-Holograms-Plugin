@@ -1,0 +1,12 @@
+name: Holograms
+version: '1.0-SNAPSHOT'
+main: org.seekie.holograms.Holograms
+commands:
+  holograms:
+    description: Create an Hologram
+    permission: holograms.use
+    permission-message: You don't have enough permission
+    usage: /holograms create|remove <Hologram_Name>
+    aliases:
+      - holo
+      - h
