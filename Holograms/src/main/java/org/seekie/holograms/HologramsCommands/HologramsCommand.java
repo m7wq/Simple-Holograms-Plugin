@@ -30,7 +30,7 @@ public class HologramsCommand implements CommandExecutor {
 
 
         if (!(sender instanceof Player)) {
-            sender.sendMessage("This Command only able for Players");
+            sender.sendMessage("This Command only allowed for Players");
             return false;
         }
 
